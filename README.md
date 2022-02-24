@@ -1,10 +1,13 @@
-👋 Hi, I’m @dylankennedy1
-👀 I’m interested in Web development and software engineering
-🌱 I’m currently learning CS at university and the full stack course at codeacademy
-💞️ I’m looking to collaborate on anything i can, please email me to take part, i would love to help.
-📫 How to reach me; email me
+### Hey!! I'm Dylan
 
-<!---
-dylan909/dylan909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Happy to meet you
+
+I am a computer Science student with a passion for automation and front end development.
+
+**What am i up to**
+
+- This year I have been working towards getting a full stack.
+- I am taking on new projects to add to my portfolio, can't wait to share.
+- This summer i hope to get an intership in a software engineering role.
+- Learning how to make my code cleaner.
+
