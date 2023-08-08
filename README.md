@@ -2,7 +2,7 @@
 
 I'm a front end developer @Trainline.
 
-I'm using this account to learn new skills and make documentation for future reference.
+I'm using this account to expand my skills and make documentation for future reference.
 
 Skills
 
@@ -16,4 +16,5 @@ Skills
 Currently working on:
 
 - [Making a Docker repository](https://github.com/dylan909/Docker)
-- Making a GraphQL respository
+- Making a GraphQL learning respository
+- Creating a project using React, Docker and GraphQL
