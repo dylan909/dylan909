@@ -17,4 +17,4 @@ Currently working on:
 
 - [Making a Docker repository](https://github.com/dylan909/Docker)
 - Making a GraphQL learning respository
-- Creating a project using React, Docker and GraphQL
+- [Creating a project using React, Docker and GraphQL](https://github.com/dylan909/movie-recommendation-app)
