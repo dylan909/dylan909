@@ -18,3 +18,7 @@ Currently working on:
 - [Making a Docker repository](https://github.com/dylan909/Docker)
 - Making a GraphQL learning respository
 - [Creating a project using React, Docker and GraphQL](https://github.com/dylan909/movie-recommendation-app)
+
+Resources i've been reading: 
+
+- https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js
