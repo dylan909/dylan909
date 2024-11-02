@@ -13,13 +13,8 @@ Skills
 - CI/CD
 - GraphQL
 
-Currently working on:
-
-- [Making a Docker repository](https://github.com/dylan909/Docker)
-- Making a GraphQL learning respository
-- [Creating a project using React, Docker and GraphQL](https://github.com/dylan909/movie-recommendation-app)
-
 Projects i want to work on during the end of 2024 and 2025:
+
 - Building a audio plugin for DAWs
 - An ios/android app.
 - An abTesting SaaS
