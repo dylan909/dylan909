@@ -22,6 +22,7 @@ Currently working on:
 Projects i want to work on during the end of 2024 and 2025:
 - Building a audio plugin for DAWs
 - An ios/android app.
+- An abTesting SaaS
 - Web game
 - A project using both c++ and another using Go.
 
