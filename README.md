@@ -20,6 +20,7 @@ Projects i want to work on during the end of 2024 and 2025:
 - An abTesting SaaS
 - Web game
 - A project using both c++ and another using Go.
+- Something to do with embedded systems
 
 
 Resources i've been reading: 
