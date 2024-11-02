@@ -1,6 +1,6 @@
 ### **Hey, I'm Dylan 😃**
 
-I'm a front end developer @Trainline.
+I'm a web developer @Trainline.
 
 I'm using this account to expand my skills and make documentation for future reference.
 
