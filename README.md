@@ -16,4 +16,4 @@ I keep this account as a working notebook: half real projects, half "I wanted to
 
 #### Reach me
 
-If you want to chat about TypeScript, frontend architecture, or trains — I'm around.
+If you want to chat about TypeScript, frontend architecture or strava timings — I'm around.
