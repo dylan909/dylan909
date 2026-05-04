@@ -1,18 +1,19 @@
-### **Hey, I'm Dylan 😃**
+## Hey, Dylan here 👋
 
-I'm a web developer @Trainline.
+Web dev at **Trainline** by day. By evening I'm usually poking at something I don't fully understand yet — right now that's compilers and how language tooling actually works under the hood.
 
-I'm using this account to expand my skills and make documentation for future reference.
+I keep this account as a working notebook: half real projects, half "I wanted to learn X so I built a tiny version of it."
 
-Skills
+#### Tech I work with
 
-- Typscript
-- Range of front end frameworks (React, Next.js, Astro)
-- Node.js
-- Docker
-- CI/CD
-- GraphQL
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Resources i've been reading: 
+#### Reach me
 
-- https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js
+If you want to chat about TypeScript, frontend architecture, or trains — I'm around.
